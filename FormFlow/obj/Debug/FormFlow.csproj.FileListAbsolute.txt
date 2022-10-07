@@ -1,0 +1,8 @@
+C:\Users\Joyce\source\repos\FormFlow\FormFlow\bin\Debug\FormFlow.dll
+C:\Users\Joyce\source\repos\FormFlow\FormFlow\bin\Debug\FormFlow.pdb
+C:\Users\Joyce\source\repos\FormFlow\FormFlow\obj\Debug\FormFlow.csproj.AssemblyReference.cache
+C:\Users\Joyce\source\repos\FormFlow\FormFlow\obj\Debug\FormFlow.UserControl1.resources
+C:\Users\Joyce\source\repos\FormFlow\FormFlow\obj\Debug\FormFlow.csproj.GenerateResource.cache
+C:\Users\Joyce\source\repos\FormFlow\FormFlow\obj\Debug\FormFlow.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\source\repos\FormFlow\FormFlow\obj\Debug\FormFlow.dll
+C:\Users\Joyce\source\repos\FormFlow\FormFlow\obj\Debug\FormFlow.pdb
